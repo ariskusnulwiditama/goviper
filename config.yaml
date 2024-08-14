@@ -1,2 +1,8 @@
 app:
-  name
+  name: goviper
+  version: 1.0.0
+  author: aris
+database:
+  show_sql: true
+  host: localhost
+  port: 3306
